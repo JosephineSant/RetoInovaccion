@@ -1,6 +1,6 @@
 # RetoInovaccion
 Reto de la semana 1
-![Azure](/images/azure-informacion1.jpg)
+![Azure](/images/azure-informacion-1.jpg)
 Format: ![Alt Text] (url)
 > **Descripción de los conceptos básicos de Azure**
 >
