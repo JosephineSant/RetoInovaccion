@@ -30,11 +30,11 @@
   >**Escalabilidad**
   >Capacidad de crecer
     >
-    >**Escalabilidad vertical**
-    >Aumento de la capacidad de de cómputo, es decir, de CPU o de RAM a los recursos que ya hay.
+    >>**Escalabilidad vertical**
+    >>Aumento de la capacidad de de cómputo, es decir, de CPU o de RAM a los recursos que ya hay.
     >
-    >**Escalabilidad horizontal**
-    >Aumento de la capacidad de cómputo añadiendo más instancias del mismo recurso.
+    >>**Escalabilidad horizontal**
+    >>Aumento de la capacidad de cómputo añadiendo más instancias del mismo recurso.
   >
   >**Elasticidad**
   > Capacidad de expandirse para adaptarse según la demanda del momento, ya sea de almacenamiento, procesamiento o repuesta de peticiones, entre otras. Los recursos se autoescalan.
