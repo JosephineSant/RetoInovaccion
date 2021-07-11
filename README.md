@@ -102,8 +102,7 @@ Reto de la semana 1
 >Proporciona servicios de cómputo o procesamiento bajo demanda.
 >
 >**Network**
->
-Proporciona servicios de red que permiten conectar los recursos con el mundo exterior. 
+>Proporciona servicios de red que permiten conectar los recursos con el mundo exterior. 
 >
 >**Storage**
 >Proporciona servicios de almacenamiento de archivos y objetos. 
@@ -119,7 +118,6 @@ Proporciona servicios de red que permiten conectar los recursos con el mundo ext
 >
 >**Inteliencia Artificial (IA)**
 >Proporciona servicios de aprendizaje automático (prefabricados o no). 
-
 >
 >**DevOps**
 >Ayuda a los equipos de desarrollo de software a automatizar y hacer eficientes sus procesos.
