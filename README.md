@@ -8,7 +8,7 @@ Reto de la semana 1
 ![Azure](/images/azure-informacion-1.jpg)
 >_Informatica en la nube:_ Es la entrega de servicios informáticos a través de internet (como servidores, almacenamiento, bases de datos, redes, software, análisis e inteligencia).
 >
-> Azure ofrece SERVICIOS como
+> Azure ofrece SERVICIOS como:
 >
 >Administración y Gobernanza, Almacenamiento, Análisis, Bases de datos, Blockchain, Contenedores y más...
 >
