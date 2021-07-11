@@ -63,7 +63,7 @@ Reto de la semana 1
 >
 >**Regiones**
 >Área geográfica del planeta que tiene por lo menos un centro de datos de Azure. 
->![Azure](/images/regionsazure.png)
+>![Regiones](/images/regionsazure.png)
 >  >_Mapa de regiones de Azure_
 >
 >**Geografías**
@@ -93,3 +93,64 @@ Reto de la semana 1
 >**CATEGORIAS DE AZURE**
 
 _Los servicios de Azure se agrupan en diferentes categorias las cuales son:_
+>
+>**Compute**
+>Proporciona servicios de cómputo o procesamiento bajo demanda. Por ejemplo:
+>
+    Maquinas virtuales (VM)
+    Kubernetes
+    Azure Virtual Machine Scale Sets
+    Azure Functions
+    Azure Container Instances
+>
+>**Network**
+>
+Proporciona servicios de red que permiten conectar los recursos con el mundo exterior. Por ejemplo:
+
+    Azure Virtual Network
+    Azure Traffic Manager
+    Azure DDoS Protection
+    Balanceadores de carga
+>
+>**Storage**
+>Proporciona servicios de almacenamiento de archivos y objetos. Por ejemplo:
+
+    Azure Blob Storage
+    Azure File Storage
+    Azure Queue Storage
+    Azure Table Storage
+
+>
+>**Database (DB) **
+>Proporciona servicios de bases de datos para una amplia variedad de tipos y volumenes de datos. Por ejemplo:
+
+    Cosmos DB
+    Azure SQL Database
+    Azure Database Migration Service
+>
+>**Internet of Things (IoT) **
+>Proporciona servicios de IoT para conectar y recibir información de sensores, relojes inteligentes, maquinaria, etc. Por ejemplo:
+
+    IoT Central
+    Azure IoT hub
+    IoT Edge
+>
+>**Big Data**
+>Porporciona servicios para el procesamiento y análisis de grandes cantidades de registros. Por ejemplo:
+
+    Azure Synapse Analytics
+    Azure Databricks
+    Azure HDInsight
+>
+>**Inteliencia Artificial (IA) **
+>Proporciona servicios de aprendizaje automático (prefabricados o no). Por ejemplo:
+
+    Azure Machine Learning Service
+    Azure Machine Learning Studio
+    Azure Cognitive Services
+>
+>**DevOps**
+>Ayuda a los equipos de desarrollo de software a automatizar y hacer eficientes sus procesos. Por ejemplo:
+
+    Azure DevOps
+    Azure DevTest Labs
