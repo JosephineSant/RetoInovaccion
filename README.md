@@ -68,7 +68,7 @@
   >Software as a Service (Software como servicio) El proveedor de nube brinda las aplicaciones y se encarga de ellas. El inquilino solo provee y se encarga de los datos.
   >
   >**Regiones**
-  >Son las **Áreas geográficas** del planeta que tiene por lo menos un centro de datos de Azure. 
+  >Son las *Áreas geográficas* del planeta que tiene por lo menos un centro de datos de Azure. 
   >![Regiones](/images/regionsazure.png)
   >  >_Mapa de regiones de Azure_
   >
@@ -123,3 +123,11 @@
   >
   >>**DevOps**
   >>Auxilia a automatizar y hacer eficientes sus procesos los equipos de desarrollo de software.
+>
+>**Azure portal**
+>Consola unificada basada en web, donde se puede administrar la suscripción  por medio de una interfaz gráfica para el usuario
+>
+>**Marketplace**
+>Es donde los Microsoft partners pueden conectar con provedores de servicios de Azure.
+
+
