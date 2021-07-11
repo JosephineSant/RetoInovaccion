@@ -40,7 +40,6 @@ Reto de la semana 1
 >Gasto inicial de dinero en infraestructura física se deduce a lo largo del tiempo.
 >
 >**OpEx**
-
 >Gasto de dinero en servicios o productos en el momento y se factura por ellos al momento. No hay inversión inicial.
 >
 >**Nube Pública**
