@@ -24,6 +24,8 @@
   >
   >*Acuerdo de nivel de servicio (SLA)*
   >Se refiere al convenio sobre la calidad del servicio
+  >>*Nivel de Servicio (SLA)*
+  >>Porcentaje de disponibilidad y rendimeinto de los recursos durante un tiempo determinado.
   >
   >**Escalabilidad**
   >Capacidad de crecer
@@ -86,15 +88,6 @@
   >
   >**Gobernanza**
   >Establecer reglas y directivas sobre los recursos de la organización y garantizar que se apliquen.
-  >
-  >**Nivel de Servicio (SLA)**
-  >Porcentaje de disponibilidad y rendimeinto de los recursos durante un tiempo determinado.
-  >
-  >**Azure**
-  >Servicio de nube de Microsoft que entrega servicios informáticos a través de Internet.
-  >
-  >**Cómputo en la nube**
-  >Es la entrega de servicios de computo a través de Internet.
   >
   >**CATEGORIAS DE AZURE**
   >
