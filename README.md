@@ -22,10 +22,10 @@
   >**Alta disponibilidad**
   >En relación al Acuerdo de nivel de servicio (SLA), Azure pueden suministrar un servicio incesante y continuo.
   >
-  >*Acuerdo de nivel de servicio (SLA)*
-  >Se refiere al convenio sobre la calidad del servicio
-  >>*Nivel de Servicio (SLA)*
-  >>Porcentaje de disponibilidad y rendimeinto de los recursos durante un tiempo determinado.
+  >>*Acuerdo de nivel de servicio (SLA)*
+  >>Se refiere al convenio sobre la calidad del servicio
+  >>>*Nivel de Servicio (SLA)*
+  >>>Porcentaje de disponibilidad y rendimeinto de los recursos durante un tiempo determinado.
   >
   >**Escalabilidad**
   >Capacidad de crecer
