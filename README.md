@@ -9,7 +9,7 @@ Reto de la semana 1
 >
 ![Azure](/images/azure-informacion-1.jpg)
 
->_Informatica en la nube:_ Es la entrega de servicios informáticos a través de internet (como servidores, almacenamiento, bases de datos, redes, software, análisis e inteligencia).
+>>**Cómputo en la nube** _Informatica en la nube:_ Es la entrega de servicios informáticos a través de internet (como servidores, almacenamiento, bases de datos, redes, software, análisis e inteligencia).
 >
 > Azure ofrece SERVICIOS como:
 >
@@ -19,7 +19,10 @@ Reto de la semana 1
 >**DEFINICIONES**
 >
 >**Alta disponibilidad**
->En relación al Acuerdo de nivel de servicio (SLA), Azure pueden suministrar un servicio incesante y continuo.**
+>En relación al Acuerdo de nivel de servicio (SLA), Azure pueden suministrar un servicio incesante y continuo.
+>
+>** Acuerdo de nivel de servicio (SLA)**
+>Se refiere al convenio sobre la calidad del servicio
 >
 >**Escalabilidad**
 >Capacidad de crecer
