@@ -19,16 +19,19 @@ Reto de la semana 1
 >**DEFINICIONES**
 >
 >**Alta disponibilidad**
->En relación al Acuerdo de nivel de servicio (SLA), Azure pueden suministrar un servicio incesante y continuo.
+>En relación al Acuerdo de nivel de servicio (SLA), Azure pueden suministrar un servicio incesante y continuo.**
+>
+>**Escalabilidad**
+>Capacidad de crecer
 >
 >**Escalabilidad vertical**
->Aumento de la capacidad de cómputo, es decir, de CPU o de RAM a los recursos que ya hay.
+>Aumento de la capacidad de de cómputo, es decir, de CPU o de RAM a los recursos que ya hay.
 >
 >**Escalabilidad horizontal**
 >Aumento de la capacidad de cómputo añadiendo más instancias del mismo recurso.
 >
 >**Elasticidad**
-> Los recursos se pueden autoescalar dependiendo de la necesidad actual. Siempre tienes los recursos que necesitas.
+> Capacidad de expandirse para adaptarse según la demanda del momento, ya sea de almacenamiento, procesamiento o repuesta de peticiones, entre otras. Los recursos se autoescalan.
 >
 >**Agilidad**
 >Implementa y configura rápidamente los recursos de la nube según cambian los requerimientos.
