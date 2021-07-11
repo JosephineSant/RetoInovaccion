@@ -1,6 +1,6 @@
 # RetoInovaccion
 Reto de la semana 1
->**_Objetivo_**: Conocer y adquirir los conocimientos esenciales para el uso de la nube de Microsoft Azure., así como, sus definiciones.
+>**_Objetivo_**: Conocer y adquirir los conocimientos esenciales para el uso de la nube de Microsoft Azure, así como, sus definiciones.
 >
 >
 > **Descripción de los conceptos básicos de Azure**
@@ -12,7 +12,6 @@ Reto de la semana 1
 >>**Cómputo en la nube** _Informatica en la nube:_ Es la entrega de servicios informáticos a través de internet (como servidores, almacenamiento, bases de datos, redes, software, análisis e inteligencia).
 >
 > Azure ofrece SERVICIOS como:
->
 >Administración y Gobernanza, Almacenamiento, Análisis, Bases de datos, Blockchain, Contenedores y más...
 >
 >
@@ -99,3 +98,70 @@ Reto de la semana 1
 
 _Los servicios de Azure se agrupan en diferentes categorias las cuales son:_
 >
+>**Compute**
+>Proporciona servicios de cómputo o procesamiento bajo demanda.
+>
+Ejemplos:
+    Maquinas virtuales (VM)
+    Kubernetes
+    Azure Virtual Machine Scale Sets
+    Azure Functions
+    Azure Container Instances
+>
+>**Network**
+>
+Proporciona servicios de red que permiten conectar los recursos con el mundo exterior. 
+
+Ejemplos:
+    Azure Virtual Network
+    Azure Traffic Manager
+    Azure DDoS Protection
+    Balanceadores de carga
+>
+>**Storage**
+>Proporciona servicios de almacenamiento de archivos y objetos. 
+
+Ejemplos:
+    Azure Blob Storage
+    Azure File Storage
+    Azure Queue Storage
+    Azure Table Storage
+
+>
+>**Database (DB) **
+>Proporciona servicios de bases de datos para una amplia variedad de tipos y volumenes de datos. 
+
+Ejemplos:
+   Cosmos DB
+   Azure SQL Database
+   Azure Database Migration Service
+>
+>**Internet of Things (IoT) **
+>Proporciona servicios de IoT para conectar y recibir información de sensores, relojes inteligentes, maquinaria, etc. 
+Ejemplos:
+   IoT Central
+   Azure IoT hub
+   IoT Edge
+>
+>**Big Data**
+>Porporciona servicios para el procesamiento y análisis de grandes cantidades de registros. 
+
+Ejemplos:
+- Azure Synapse Analytics
+- Azure Databricks
+- Azure HDInsight
+>
+>**Inteliencia Artificial (IA) **
+>Proporciona servicios de aprendizaje automático (prefabricados o no). 
+
+Ejemplos:
+    Azure Machine Learning Service
+    Azure Machine Learning Studio
+    Azure Cognitive Services
+>
+>**DevOps**
+>Ayuda a los equipos de desarrollo de software a automatizar y hacer eficientes sus procesos.
+
+Ejemplos:
+   Azure DevOps
+   Azure DevTest Labs
