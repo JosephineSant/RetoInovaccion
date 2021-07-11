@@ -1,6 +1,6 @@
 # RetoInovaccion
 ![Azure](/images/acuarelazul.jpg)
-Semana 1
+>Semana 1
 >
 >**_Objetivo_**: Conocer y adquirir los conocimientos esenciales para el uso de la nube de Microsoft Azure, así como, sus definiciones.
 >
@@ -103,23 +103,23 @@ Semana 1
   >**Compute**
   >Proporciona servicios de cómputo o procesamiento bajo demanda.
   >
-  >**Network**
-  >Proporciona servicios de red que permiten conectar los recursos con el mundo exterior. 
+  >>**Network**
+  >>Provee servicios de red que permiten conectar los recursos con el mundo exterior. 
   >
-  >**Storage**
-  >Proporciona servicios de almacenamiento de archivos y objetos. 
+  >>**Storage**
+  >>Son los servicios de almacenamiento de archivos y objetos. 
   >
-  >**Database (DB) **
-  >Proporciona servicios de bases de datos para una amplia variedad de tipos y volumenes de datos. 
+  >>**Database (DB)**
+  >>Proporciona servicios de bases de datos para una amplia variedad de tipos y volumenes de datos. 
   >
-  >**Internet of Things (IoT)**
-  >Proporciona servicios de IoT para conectar y recibir información de sensores, relojes inteligentes, maquinaria, etc. 
+  >>**Internet of Things (IoT)**
+  >>Proporciona servicios de IoT para conectar y recibir información de sensores, relojes inteligentes, maquinaria, etc. 
   >
-  >**Big Data**
-  >Porporciona servicios para el procesamiento y análisis de grandes cantidades de registros. 
+  >>**Big Data**
+  >>Porporciona servicios para el procesamiento y análisis de grandes cantidades de registros. 
   >
-  >**Inteliencia Artificial (IA)**
-  >Proporciona servicios de aprendizaje automático (prefabricados o no). 
+  >>**Inteliencia Artificial (IA)**
+  >>Suministra servicios de aprendizaje automático, estos pueden o no ser prefabricados.
   >
-  >**DevOps**
-  >Ayuda a los equipos de desarrollo de software a automatizar y hacer eficientes sus procesos.
+  >>**DevOps**
+  >>Auxilia a automatizar y hacer eficientes sus procesos los equipos de desarrollo de software.
