@@ -65,7 +65,7 @@ Reto de la semana 1
 >Área geográfica del planeta que tiene por lo menos un centro de datos de Azure. 
 
    >_Mapa de regiones de Azure_
-drawing
+![Azure](/images/regionazure.png)
 >**Geografías**
 >Zona que contiene dos o más regiones de Azure.
 >
