@@ -95,8 +95,8 @@ Reto de la semana 1
 >Es la entrega de servicios de computo a través de Internet.
 >
 >**CATEGORIAS DE AZURE**
-
-_Los servicios de Azure se agrupan en diferentes categorias las cuales son:_
+>
+>*Los servicios de Azure se agrupan en diferentes categorias las cuales son:*
 >
 >**Compute**
 >Proporciona servicios de cómputo o procesamiento bajo demanda.
