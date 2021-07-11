@@ -1,8 +1,8 @@
 # RetoInovaccion
+![Azure](/images/acuarelazul.jpg)
 Reto de la semana 1
 >**_Objetivo_**: Conocer y adquirir los conocimientos esenciales para el uso de la nube de Microsoft Azure, así como, sus definiciones.
 >
-![Azure](/images/acuarelazul.jpg)
 >
 > **Descripción de los conceptos básicos de Azure**
 >
