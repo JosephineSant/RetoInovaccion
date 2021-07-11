@@ -87,7 +87,7 @@
   >**Gobernanza**
   >Establecer reglas y directivas sobre los recursos de la organización y garantizar que se apliquen.
   >
-  >**Nivel de Servicio (SLA) **
+  >**Nivel de Servicio (SLA)**
   >Porcentaje de disponibilidad y rendimeinto de los recursos durante un tiempo determinado.
   >
   >**Azure**
