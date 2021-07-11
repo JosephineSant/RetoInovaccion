@@ -68,7 +68,7 @@
   >Software as a Service (Software como servicio) El proveedor de nube brinda las aplicaciones y se encarga de ellas. El inquilino solo provee y se encarga de los datos.
   >
   >**Regiones**
-  >Área geográfica del planeta que tiene por lo menos un centro de datos de Azure. 
+  >Son las **Áreas geográficas** del planeta que tiene por lo menos un centro de datos de Azure. 
   >![Regiones](/images/regionsazure.png)
   >  >_Mapa de regiones de Azure_
   >
@@ -100,8 +100,8 @@
   >
   >*Los servicios de Azure se agrupan en diferentes categorias las cuales son:*
   >
-  >**Compute**
-  >Proporciona servicios de cómputo o procesamiento bajo demanda.
+  >>**Compute**
+  >>Proporciona servicios de cómputo o procesamiento bajo demanda.
   >
   >>**Network**
   >>Provee servicios de red que permiten conectar los recursos con el mundo exterior. 
