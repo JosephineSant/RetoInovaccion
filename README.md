@@ -1,6 +1,7 @@
 # RetoInovaccion
 Reto de la semana 1
 ![Azure](/images/azure-informacion1.jpg)
+Formar: ![Alt Text] (url)
 > **Descripción de los conceptos básicos de Azure**
 >
 >_Azure_ -Plataforma informática en la nube con un conjunto de servicios para satisfacer objetivos empresariales que soporta Infrestructura Iaas Plataforma Paas Software Saas. Ofrece la libertad de cimpilar, administrar e implementar aplicaciones en una red global masiva.
