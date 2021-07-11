@@ -128,6 +128,6 @@
 >Consola unificada basada en web, donde se puede administrar la suscripción  por medio de una interfaz gráfica para el usuario
 >
 >**Marketplace**
->Es donde los Microsoft partners pueden conectar con provedores de servicios de Azure.
+>Es donde los Microsoft Partners pueden conectar con provedores de servicios de Azure.
 
 
