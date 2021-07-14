@@ -116,6 +116,7 @@
   >
   >>**DevOps**
   >>Auxilia a automatizar y hacer eficientes sus procesos los equipos de desarrollo de software.
+  >>
   >>![Azure](/images/Devops.png)
 >
 >**Azure portal**
