@@ -35,30 +35,35 @@
   >
   >>**Escalabilidad horizontal**
   >>Aumento de la capacidad de cómputo añadiendo más instancias del mismo recurso.
+  >>
+  >(p/e: incorporar maquinas virtuales a la configuración)
   >
   >**Elasticidad**
-  > Capacidad de expandirse para adaptarse según la demanda del momento, ya sea de almacenamiento, procesamiento o repuesta de peticiones, entre otras. Los recursos se autoescalan.
+  > Capacidad de expandirse para adaptarse según la demanda del momento, para que las aplicaciones siempre dispongan de los recursos que necesitan, ya sea de almacenamiento, procesamiento o repuesta de peticiones, entre otras. Los recursos se autoescalan.
   >
   >**Agilidad**
-  >Implementa y configura rápidamente los recursos de la nube según cambian los requerimientos.
+  >Rapidez de adaptar los recursos a los requisitos, implementando y configurando los recursos de la nube según cambian los requerimientos.
   >
   >**Tolerancia a Fallo**
-  >Tomar ventaja de los servicios de respaldo, replicación de datos y geo-distribución de la nube. Tus datos están seguros en caso de desastre.
+  >Tomar ventaja de los servicios de *respaldo, replicación de datos y geo-distribución de la nube*. Tus datos están seguros en caso de desastre.
   >
   >**CapEx**
-  >Gasto inicial de dinero en infraestructura física se deduce a lo largo del tiempo.
+  >*Gasto inicial* de dinero en *infraestructura física* se deduce a lo largo del tiempo.
   >
   >**OpEx**
-  >Gasto de dinero en servicios o productos en el momento y se factura por ellos al momento. No hay inversión inicial.
+  >*Gasto de dinero en servicios o productos en el momento* y se factura por ellos al momento. No hay inversión inicial.
   >
-  >**Nube Pública**
-  >Los servicios se ofrecen a través de la red Internet pública y están disponibles para cualquiera que quiera comprarlos, es decir, conseguir servicios de nube de terceros como Microsoft Azure.
+ >
+ >**MODELOS**
+ >  
+ >>**Nube Pública**
+  >>Los servicios se ofrecen a través de la red Internet pública y están disponibles para cualquiera que quiera comprarlos, donde un proveedor proporciona los recursos como servidores y almacenamiento, es decir, servicios de nube de terceros como Microsoft Azure.
+ >
+ >>**Nube Privada**
+  >>Los recursos informáticos son de uso exclusivo de los usuarios de una empresa u organización la cual se encarga de el consumo de electricidad, seguridad, mantenimiento
   >
-  >**Nube Privada**
-  >Los recursos informáticos son de uso exclusivo de los usuarios de una empresa u organización la cual se encarga de el consumo de electricidad, seguridad, mantenimiento
-  >
-  >**Nube Híbrida**
-  >Entorno que combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre ellas.
+  >>**Nube Híbrida**
+  >>Entorno que combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre ellas.
   >
   >**IaaS**
   >Infraestructure as a Service (Infraestructura como servicio) Modelo de servicio que es muy cercano a tener data centers fisicos. El proveedor solo se encarga del hardware.
