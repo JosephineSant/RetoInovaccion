@@ -67,27 +67,27 @@
 >
 >**MODELOS DE SERVICIO DE NUEBE**
 >
-  >**IaaS**
-  >Infraestructure as a Service (Infraestructura como servicio) El proveedor solo se encarga del hardware por lo que es lo más parecido a tener los data centers fisicos.
+  >>**IaaS**
+  >>Infraestructure as a Service (Infraestructura como servicio) El proveedor solo se encarga del hardware por lo que es lo más parecido a tener los data centers fisicos.
   >
-  >**PaaS**
-  >Platform as a Service (Plataforma como servicio) El proveedor se encarga de las maquinas virtuales y los recursos de red, mientras el usuario se encarga de las aplicaciones (Datos y Acceso a las apps) en un entorno de alojamiento gestionado.
+  >>**PaaS**
+  >>Platform as a Service (Plataforma como servicio) El proveedor se encarga de las maquinas virtuales y los recursos de red, mientras el usuario se encarga de las aplicaciones (Datos y Acceso a las apps) en un entorno de alojamiento gestionado.
   >
-  >**SaaS**
-  >Software as a Service (Software como servicio) El proveedor de nube brinda las aplicaciones y se encarga de ellas. El usuario unicamente preoporciona y se encarga de los datos.
+  >>**SaaS**
+  >>Software as a Service (Software como servicio) El proveedor de nube brinda las aplicaciones y se encarga de ellas. El usuario unicamente preoporciona y se encarga de los datos.
   >
 >**INFRAESTRUCTURA GLOBAL**
 >
-  >**Regiones**
-  >Son las *Áreas geográficas* del planeta que tiene *por lo menos **un** centro de datos de Azure*. 
+  >>**Regiones**
+  >>Son las *Áreas geográficas* del planeta que tiene *por lo menos **un** centro de datos de Azure*. 
   >![Regiones](/images/regionsazure.png)
   >  >_Mapa de regiones de Azure_
   >
-  >**Geografías**
-  >Zona que contiene *dos o más regiones de Azure*.
+  >>**Geografías**
+  >>Zona que contiene *dos o más regiones de Azure*.
   >
-  >**Zonas de Disponibilidad**
-  >Es un *Centros de datos separados físicamente dentro de una región de Azure* con electricidad, refrigeración y equipo independientes.
+  >>**Zonas de Disponibilidad**
+  >>Es un *Centros de datos separados físicamente dentro de una región de Azure* con electricidad, refrigeración y equipo independientes.
   >
   >**Recursos**
   >Elemento administrable que está disponible mediante Azure.
