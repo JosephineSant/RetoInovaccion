@@ -53,7 +53,15 @@
   >**OpEx**
   >Gasto de dinero en *servicios o productos en el momento* y se factura por ellos al momento. No hay inversión inicial.
   >
- >
+  >**Recursos**
+  >Elemento administrable que está disponible mediante Azure.
+  >
+  >**Grupos de Recursos**
+  >Contenedor lógico que incluye los recursos relacionados a una solución.
+  >
+  >**Gobernanza**
+  >Establecer reglas y directivas sobre los recursos de la organización y garantizar que se apliquen.
+
  >**MODELOS DE NUBE**
  >  
  >>**Nube Pública**
@@ -89,15 +97,6 @@
   >>**Zonas de Disponibilidad**
   >>Es un *Centros de datos separados físicamente dentro de una región de Azure* con electricidad, refrigeración y equipo independientes.
   >
-  >**Recursos**
-  >Elemento administrable que está disponible mediante Azure.
-  >
-  >**Grupos de Recursos**
-  >Contenedor lógico que incluye los recursos relacionados a una solución.
-  >
-  >**Gobernanza**
-  >Establecer reglas y directivas sobre los recursos de la organización y garantizar que se apliquen.
-  >
   >**CATEGORIAS DE AZURE**
   >
   >*Los servicios de Azure se agrupan en diferentes categorias las cuales son:*
@@ -129,7 +128,7 @@
   >>![Azure](/images/Devops.png)
 >
 >**Azure portal**
->Consola unificada basada en web, donde se puede administrar la suscripción  por medio de una interfaz gráfica para el usuario
+>Es una consola unificada basada en web, donde se puede administrar la suscripción  por medio de una interfaz gráfica.
 >
 >**Marketplace**
 >Es donde los Microsoft Partners pueden conectar con provedores de servicios de Azure.
