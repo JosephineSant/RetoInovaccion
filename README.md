@@ -47,12 +47,6 @@
   >**Tolerancia a Fallo**
   >Los datos estan seguros en caso de desastre. Ventaja de los servicios de *respaldo, replicación de datos y geo-distribución de la nube*.
   >
-  >**CapEx**
-  >Gasto inicial de dinero en *infraestructura física* se deduce a lo largo del tiempo.
-  >
-  >**OpEx**
-  >Gasto de dinero en *servicios o productos en el momento* y se factura por ellos al momento. No hay inversión inicial.
-  >
   >**Recursos**
   >Elemento administrable que está disponible mediante Azure.
   >
@@ -61,7 +55,12 @@
   >
   >**Gobernanza**
   >Establecer reglas y directivas sobre los recursos de la organización y garantizar que se apliquen.
-
+ >
+  >**CapEx**
+  >Gasto inicial de dinero en *infraestructura física* se deduce a lo largo del tiempo.
+  >
+  >**OpEx**
+  >Gasto de dinero en *servicios o productos en el momento* y se factura por ellos al momento. No hay inversión inicial.
  >**MODELOS DE NUBE**
  >  
  >>**Nube Pública**
