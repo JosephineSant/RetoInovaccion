@@ -34,7 +34,7 @@
   >>Aumento de la capacidad de de cómputo, es decir, de CPU o de RAM a los recursos que ya hay.
   >
   >>**Escalabilidad horizontal**
-  >>Aumento de la capacidad de cómputo añadiendo más instancias del mismo recurso.
+  >>Aumento de la capacidad de cómputo añadiendo más instancias del mismo recurso. P/E. El conjunto de escalado de las Virtual Machines.
   >>
   >(p/e: incorporar maquinas virtuales a la configuración)
   >
@@ -45,45 +45,49 @@
   >Rapidez de adaptar los recursos a los requisitos, implementando y configurando los recursos de la nube según cambian los requerimientos.
   >
   >**Tolerancia a Fallo**
-  >Tomar ventaja de los servicios de *respaldo, replicación de datos y geo-distribución de la nube*. Tus datos están seguros en caso de desastre.
+  >Los datos estan seguros en caso de desastre. Ventaja de los servicios de *respaldo, replicación de datos y geo-distribución de la nube*.
   >
   >**CapEx**
-  >*Gasto inicial* de dinero en *infraestructura física* se deduce a lo largo del tiempo.
+  >Gasto inicial de dinero en *infraestructura física* se deduce a lo largo del tiempo.
   >
   >**OpEx**
-  >*Gasto de dinero en servicios o productos en el momento* y se factura por ellos al momento. No hay inversión inicial.
+  >Gasto de dinero en *servicios o productos en el momento* y se factura por ellos al momento. No hay inversión inicial.
   >
  >
- >**MODELOS**
+ >**MODELOS DE NUBE**
  >  
  >>**Nube Pública**
-  >>Los servicios se ofrecen a través de la red Internet pública y están disponibles para cualquiera que quiera comprarlos, donde un proveedor proporciona los recursos como servidores y almacenamiento, es decir, servicios de nube de terceros como Microsoft Azure.
+  >>Es por medio de Internet pública y los servicios que ofrece están disponibles para cualquiera que quiera comprarlos, el proveedor proporciona los recursos como servidores y almacenamiento, es decir, servicios de nube de terceros como Microsoft Azure.
  >
  >>**Nube Privada**
-  >>Los recursos informáticos son de uso exclusivo de los usuarios de una empresa u organización la cual se encarga de el consumo de electricidad, seguridad, mantenimiento
+  >>La infraestructura y los recursos informáticos son de uso exclusivo de determinados usuarios de una organización, la cual se encarga de todos los gastos, la seguridad, mantenimiento y actualizaciones.
   >
   >>**Nube Híbrida**
-  >>Entorno que combina una nube pública y una nube privada, lo que permite compartir datos y aplicaciones entre ellas.
-  >
+  >>Es un entorno en el que se combina una nube pública y una nube privada, esto le permite compartir datos y aplicaciones entre ellas. Es la que ofrece la mayor flexibilidad pero es la mas costosa.
+>
+>**MODELOS DE SERVICIO DE NUEBE**
+>
   >**IaaS**
-  >Infraestructure as a Service (Infraestructura como servicio) Modelo de servicio que es muy cercano a tener data centers fisicos. El proveedor solo se encarga del hardware.
+  >Infraestructure as a Service (Infraestructura como servicio) El proveedor solo se encarga del hardware por lo que es lo más parecido a tener los data centers fisicos.
   >
   >**PaaS**
-  >Platform as a Service (Plataforma como servicio) Modelo de servicio en un entorno de alujamiento gestionado. El proveedor se encarga de las maquinas virtuales y recursos de red. El inquilino de las aplicaciones.
+  >Platform as a Service (Plataforma como servicio) El proveedor se encarga de las maquinas virtuales y los recursos de red, mientras el usuario se encarga de las aplicaciones (Datos y Acceso a las apps) en un entorno de alojamiento gestionado.
   >
   >**SaaS**
-  >Software as a Service (Software como servicio) El proveedor de nube brinda las aplicaciones y se encarga de ellas. El inquilino solo provee y se encarga de los datos.
+  >Software as a Service (Software como servicio) El proveedor de nube brinda las aplicaciones y se encarga de ellas. El usuario unicamente preoporciona y se encarga de los datos.
   >
+>**INFRAESTRUCTURA GLOBAL**
+>
   >**Regiones**
-  >Son las *Áreas geográficas* del planeta que tiene por lo menos un centro de datos de Azure. 
+  >Son las *Áreas geográficas* del planeta que tiene *por lo menos **un** centro de datos de Azure*. 
   >![Regiones](/images/regionsazure.png)
   >  >_Mapa de regiones de Azure_
   >
   >**Geografías**
-  >Zona que contiene dos o más regiones de Azure.
+  >Zona que contiene *dos o más regiones de Azure*.
   >
   >**Zonas de Disponibilidad**
-  >Centros de datos separados físicamente dentro de una región de Azure con electricidad, refrigeración y equipo independientes.
+  >Es un *Centros de datos separados físicamente dentro de una región de Azure* con electricidad, refrigeración y equipo independientes.
   >
   >**Recursos**
   >Elemento administrable que está disponible mediante Azure.
