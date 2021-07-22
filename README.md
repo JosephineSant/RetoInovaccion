@@ -71,7 +71,7 @@
   >>**Nube Híbrida**
   >>Es un entorno en el que se combina una nube pública y una nube privada, esto le permite compartir datos y aplicaciones entre ellas. Es la que ofrece la mayor flexibilidad pero es la mas costosa.
 >
->**MODELOS DE SERVICIO DE NUEBE**
+>**MODELOS DE SERVICIO CLOUD**
 >
   >>**IaaS**
   >>Infraestructure as a Service (Infraestructura como servicio) El proveedor solo se encarga del hardware por lo que es lo más parecido a tener los data centers fisicos.
