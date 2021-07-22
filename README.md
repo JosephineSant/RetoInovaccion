@@ -35,8 +35,6 @@
   >
   >>**Escalabilidad horizontal**
   >>Aumento de la capacidad de cómputo añadiendo más instancias del mismo recurso. P/E. El conjunto de escalado de las Virtual Machines.
-  >>
-  >(p/e: incorporar maquinas virtuales a la configuración)
   >
   >**Elasticidad**
   > Capacidad de expandirse para adaptarse según la demanda del momento, para que las aplicaciones siempre dispongan de los recursos que necesitan, ya sea de almacenamiento, procesamiento o repuesta de peticiones, entre otras. Los recursos se autoescalan.
