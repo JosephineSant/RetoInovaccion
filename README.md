@@ -61,6 +61,7 @@
   >
   >**OpEx**
   >Gasto de dinero en *servicios o productos en el momento* y se factura por ellos al momento. No hay inversión inicial.
+  >
  >**MODELOS DE NUBE**
  >  
  >>**Nube Pública**
