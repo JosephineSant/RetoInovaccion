@@ -123,7 +123,7 @@
   >>Suministra servicios de aprendizaje automático, estos pueden o no ser prefabricados.
   >
   >>**DevOps**
-  >>Development (desarrollo) Operations (operaciones). Es el auxiliar para automatizar y hacer más eficientes los procesos los equipos de desarrollo de software, así favorece una mejor coordinación y colaboración con otros roles.
+  >>Development (desarrollo) Operations (operaciones). Favorece una mejor coordinación y colaboración con otros roles para desarrollo de software, es el auxiliar para automatizar y hacer más eficientes los procesos.
   >>
   >>![Azure](/images/Devops.png)
 >
