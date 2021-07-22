@@ -102,22 +102,22 @@
   >*Los servicios de Azure se agrupan en diferentes categorias las cuales son:*
   >
   >>**Compute**
-  >>Proporciona servicios de cómputo o procesamiento bajo demanda.
+  >>Procesamiento de datos bajo demanda (Proporciona servicios de cómputo).
   >
   >>**Network**
-  >>Provee servicios de red que permiten conectar los recursos con el mundo exterior. 
+  >>Son los servicios de red, es decir, permiten conectarse entre si y conectar los recursos con el mundo exterior. 
   >
   >>**Storage**
-  >>Son los servicios de almacenamiento de archivos y objetos. 
+  >>Almacenamiento de archivos y objetos. 
   >
   >>**Database (DB)**
-  >>Proporciona servicios de bases de datos para una amplia variedad de tipos y volumenes de datos. 
+  >>Guarda registros para diferentes y variados tipos y volumenes de datos. 
   >
   >>**Internet of Things (IoT)**
-  >>Proporciona servicios de IoT para conectar y recibir información de sensores, relojes inteligentes, maquinaria, etc. 
+  >>Automatizar aparatos, se emplea para conectar y recibir información de sensores, relojes inteligentes, maquinaria, etc. 
   >
   >>**Big Data**
-  >>Porporciona servicios para el procesamiento y análisis de grandes cantidades de registros. 
+  >>Procesamiento y análisis de grandes cantidades de registros. 
   >
   >>**Inteliencia Artificial (IA)**
   >>Suministra servicios de aprendizaje automático, estos pueden o no ser prefabricados.
